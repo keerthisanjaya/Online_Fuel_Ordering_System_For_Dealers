@@ -1,0 +1,5 @@
+[28-Feb-2024 14:07:32 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/fuelzfxc/public_html/application/controllers/Orders.php on line 738
+[05-Mar-2024 03:56:12 America/New_York] PHP Fatal error:  Cannot redeclare UsersModel::getUserById() in /home/fuelzfxc/public_html/application/models/UsersModel.php on line 96
+[05-Mar-2024 04:01:10 America/New_York] PHP Fatal error:  Cannot redeclare UsersModel::getUserById() in /home/fuelzfxc/public_html/application/models/UsersModel.php on line 96
+[21-Mar-2024 05:13:12 America/New_York] PHP Fatal error:  Cannot redeclare Fillingstation::delete() in /home/fuelzfxc/public_html/application/controllers/Fillingstation.php on line 323
+[23-Mar-2024 05:27:02 America/New_York] PHP Fatal error:  Cannot redeclare ReportModel::showodersReport() in /home/fuelzfxc/public_html/application/models/ReportModel.php on line 87
